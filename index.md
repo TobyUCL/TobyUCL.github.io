@@ -15,7 +15,7 @@ We demonstrate the advantages of spherical convolutional neural networks over co
 <h1> Education </h1>
 2019-onwards: PhD in Medical Imaging, UCL
 
-2019: MRes in Medical Imaging, UCL
+2018-2019: MRes in Medical Imaging, UCL
 
-2016-2019: BSc in Mathematics, University of Bristol
+2015-2018: BSc in Mathematics, University of Bristol
 <hr>
