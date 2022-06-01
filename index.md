@@ -14,6 +14,7 @@ We demonstrate the advantages of spherical convolutional neural networks over co
 
 <h1> Patch-CNN-DTI: Data-efficient high-fidelity tensor recovery from 6 direction diffusion weighted imaging </h1>
 [ISMRM 2021 abstract](https://index.mirasmart.com/ISMRM2021/PDFfiles/2449.html 'ISMRM 2021 abstract')
+![My photo](/Images/ISMRM21Title.jpg)
 
 We present Patch-CNN-DTI, a deep-learning method to estimate diffusion tensors (DT) accurately from only 6 diffusion-weighted images. Early voxel-wise deep-learning methods can only estimate scalar measures of DT. Later work shows DT can be estimated using image-wise methods based on convolutional neural networks (CNN), but they require large training cohort. Patch-CNN-DTI can estimate DT with only one training subject, by pooling information from local neighbourhood of a voxel similar to the CNN but at a much smaller scale to minimise training data requirements. Results show it outperforms conventional model fitting with twice the number of diffusion directions.
 
