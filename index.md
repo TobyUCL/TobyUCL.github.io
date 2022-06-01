@@ -16,7 +16,7 @@ We demonstrate the advantages of spherical convolutional neural networks over co
 [ISMRM 2021 abstract](https://index.mirasmart.com/ISMRM2021/PDFfiles/2449.html 'ISMRM 2021 abstract')
 
 See the abstract presentation I gave at ISMRM 21 on youtube:
-[![My photo](/Images/ISMRM21Title.jpg)](https://www.youtube.com/watch?v=KSIy84Abgug)]
+[![My photo](/Images/ISMRM21Title.jpg)](https://www.youtube.com/watch?v=KSIy84Abgug)
 
 We present Patch-CNN-DTI, a deep-learning method to estimate diffusion tensors (DT) accurately from only 6 diffusion-weighted images. Early voxel-wise deep-learning methods can only estimate scalar measures of DT. Later work shows DT can be estimated using image-wise methods based on convolutional neural networks (CNN), but they require large training cohort. Patch-CNN-DTI can estimate DT with only one training subject, by pooling information from local neighbourhood of a voxel similar to the CNN but at a much smaller scale to minimise training data requirements. Results show it outperforms conventional model fitting with twice the number of diffusion directions.
 
