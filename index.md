@@ -2,7 +2,7 @@
 ![My photo](/Images/CirclePhoto.png){: style="width:180px; float: right;"}
 
 <h1> Overview </h1>
-I am a final year PhD student in the CIG group at the Centre for Medical Image Computing (CMIC) at UCL. My supervisors are Prof Gary Zhang and Prof Parashkev Nachev. My work is focussed around developing and applying AI methods to diffusion magnetic resonance imaging (dMRI) data with application to Ischaemic Stroke.  
+I am a final year PhD student in the [CIG](https://cig-ucl.github.io/ 'CIG') group at the Centre for Medical Image Computing (CMIC) at UCL. My supervisors are Prof Gary Zhang and Prof Parashkev Nachev. My work is focussed around developing and applying AI methods to diffusion magnetic resonance imaging (dMRI) data with application to Ischaemic Stroke.  
 
 <hr>
 <h1> Spherical-CNN based diffusion MRI parameter estimation is robust to gradient schemes and equivariant to rotation </h1>
