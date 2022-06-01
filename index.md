@@ -12,7 +12,6 @@ We demonstrate the advantages of spherical convolutional neural networks over co
 
 <hr>
 
-<hr>
 <h1> Patch-CNN-DTI: Data-efficient high-fidelity tensor recovery from 6 direction diffusion weighted imaging </h1>
 [ISMRM 2021 abstract](https://index.mirasmart.com/ISMRM2021/PDFfiles/2449.html 'ISMRM 2021 abstract')
 
